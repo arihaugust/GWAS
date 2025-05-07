@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Interactive GWAS Figures</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 15px 0;
+      font-size: 1.2em;
+    }
+    a {
+      color: #2a5bd7;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Interactive GWAS Visualizations</h1>
+  <ul>
+    <li><a href="CH6_wGenes%20(9).html" target="_blank">Chromosome 6 with Genes</a></li>
+    <li><a href="fig1_phenotype_vs_gene%20(1).html" target="_blank">Figure 1: Phenotype vs. Gene</a></li>
+    <li><a href="fig2_ethnicity_vs_gene%20(1).html" target="_blank">Figure 2: Ethnicity vs. Gene</a></li>
+    <li><a href="manhattan_plot%2862%29.html" target="_blank">Manhattan Plot</a></li>
+  </ul>
+</body>
+</html>
