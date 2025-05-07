@@ -35,10 +35,11 @@
 <body>
   <h1>Interactive GWAS Visualizations</h1>
   <ul>
-    <li><a href="CH6_wGenes%20(9).html" target="_blank">Chromosome 6 with Genes</a></li>
-    <li><a href="fig1_phenotype_vs_gene%20(1).html" target="_blank">Figure 1: Phenotype vs. Gene</a></li>
-    <li><a href="fig2_ethnicity_vs_gene%20(1).html" target="_blank">Figure 2: Ethnicity vs. Gene</a></li>
-    <li><a href="manhattan_plot%2862%29.html" target="_blank">Manhattan Plot</a></li>
+     <li><a href="manhattan_plot%2862%29.html" target="_blank">Figure 1A: Manhattan Plot (Excluding Ch6, Genomically Significant (GSig) SNPs)</a></li>
+    <li><a href="CH6_wGenes%20(9).html" target="_blank">Figure 1B: Manhattan Plot (Ch6, Genomically Significant (GSig) SNPs)</a></li>
+    <li><a href="fig1_phenotype_vs_gene%20(1).html" target="_blank">Figure 2A: Analysis of Key Genes (Phenotype)</a></li>
+    <li><a href="fig2_ethnicity_vs_gene%20(1).html" target="_blank">Figure 2B: Analysis of Key Genes (Ethnicity)</a></li>
+    <li><a href="HEATMAP_(1).png" target="_blank">Figure 2C: Analysis of Key Genes (RNA Expression)</a></li>
   </ul>
 </body>
 </html>
